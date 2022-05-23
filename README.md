@@ -5,8 +5,8 @@
 #	Results:
 -	There is a bulleted list that addresses how each of the seven school district metrics was affected by the changes in the data (10 pt).
 -	At the district level, 64.9% of the students (25,421 students) passed both reading and math across 15 schools. The results were the same with or without the ninth graders at Thomas High School removed.
-Total Schools	Total Students	Total Budget	Average Math Score	Average Reading Score	% Passing Math	% Passing Reading	% Overall Passing
-15	39,170	$24,649,428.00	78.9	81.9	74.8	85.7	64.9
+
+
 # How is the school summary affected?
 The top 5 schools with the highest percentage of overall passing grade had a marginal difference shown in Thomas High School's performance compared to the original with the Ninth graders data included. The overall passing % for the data with the Ninth grader removed reduced 31 bases points from the original (90.63% vs. 90.95%)
 # Original Top 5
